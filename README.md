@@ -25,44 +25,13 @@ I enjoy turning ideas into simple and accessible interfaces while continuously r
 
 ---
 
-## 📌 Featured Projects
-
-### [Landing Page](#)
-A modern landing page built with HTML & CSS showcasing layout and responsiveness.  
-**Technologies:** HTML, CSS, Responsive Design  
-
-### [JavaScript App](#)
-Interactive JavaScript project demonstrating DOM manipulation and events.  
-**Technologies:** JavaScript, DOM, Event Handling  
-
-### [React App](#)
-A small React application using components, props, and state management.  
-**Technologies:** React, JSX, State  
-
-### [React + API Project](#)
-A React project fetching data from an API and displaying dynamic content.  
-**Technologies:** React, Fetch API, State, Components  
-
-*(Depois você atualiza os links com os links reais dos seus repositórios)*
-
----
-
 ## 📊 GitHub Stats
 
 ![Danille GitHub stats](https://github-readme-stats.vercel.app/api?username=danillebutler&show_icons=true&theme=tokyonight)
 
----
-
 ## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danillebutler&layout=compact&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/danillebutler/danillebutler/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## ✨ About my work
@@ -72,6 +41,6 @@ Consistency beats perfection — small improvements every day lead to strong ski
 
 ---
 
-## 🌎 Languages
+##  Languages
 
-Portuguese • Spanish • English • Basic German
+Portuguese • Spanish • English 
