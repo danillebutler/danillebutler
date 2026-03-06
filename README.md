@@ -43,3 +43,16 @@ For me, consistency beats perfection — small improvements every day lead to st
 ##  Languages
 
 Portuguese • Spanish • English 
+
+
+## 📊 GitHub Stats
+
+![Danille GitHub stats](https://github-readme-stats.vercel.app/api?username=danillebutler&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danillebutler&layout=compact&theme=tokyonight)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/danillebutler/danillebutler/blob/output/github-contribution-grid-snake.svg)
