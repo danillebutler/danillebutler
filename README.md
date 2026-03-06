@@ -1,8 +1,9 @@
 # Hi there, I'm Danille :)
 
 Germany 📍
-💻 Front-end developer focused on building clean and functional web experiences.
-- Improving my skills day by day through practice, projects, and curiosity.
+
+-  Front-end developer focused on building clean and functional web experiences.
+-  Improving my skills day by day through practice, projects, and curiosity.
 
 I enjoy turning ideas into simple and accessible interfaces while continuously refining my craft.
 
